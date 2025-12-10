@@ -1,0 +1,9 @@
+p{
+    /* text-align: left; */
+    /* text-align: center; */
+    /* text-align: right; */
+    text-align: justify;
+}
+h1{
+    text-shadow: -5px -5px 5px blueviolet;
+}
